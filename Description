@@ -1,0 +1,25 @@
+🥗 Project Title: MealMaster (Dietary Management App)
+Summary: MealMaster is a modern, responsive web application built to streamline personal nutrition management. It bridges the gap between complex health data and user-friendly tracking, allowing users to calculate their metabolic needs and log daily meals in real-time.
+
+The Live Experience: You can view the fully functional deployment here: 👉 MealMaster Live Demo-https://gilded-chaja-11a5c3.netlify.app
+
+🌟 Core Functionalities
+Smart Macro Calculation: Automatically determines target protein, carbohydrate, and fat intake based on user-specific metrics.
+Intuitive Meal Logging: A categorized interface for Breakfast, Lunch, Dinner, and Snacks to keep daily records organized.
+Dynamic Calorie Budgeting: Real-time updates that show calories remaining versus calories consumed.
+Responsive UI: A mobile-first design philosophy ensuring the app works perfectly on phones, tablets, and desktops.
+
+💻 Technical Architecture
+I built this project with a focus on performance and clean state management:
+Framework: React.js (utilizing Vite for optimized bundling)
+Styling: Tailwind CSS (for a modern, utility-first design system)
+Deployment: Integrated with Netlify for automated CI/CD pipelines.
+
+🛠️ How to Run This Locally
+Clone the repository using git clone.
+Navigate to the folder and run npm install to grab the dependencies.
+Use npm run dev to launch the local development environment.
+Open localhost:5173 in your browser.
+
+📖 Why I Built This
+This project was born out of a need for a clutter-free diet tracker. Many existing apps are overwhelmed with ads and complex menus; MealMaster focuses on speed and essential data visualization to help users stay consistent with their health goals.
