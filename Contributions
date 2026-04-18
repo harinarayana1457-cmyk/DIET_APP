@@ -1,0 +1,61 @@
+Contributing to DIET_APP
+Thank you for your interest in contributing! To maintain a high standard of code and a smooth workflow, please follow these steps.
+
+1. 🔍 Find an Issue or Suggest an Idea
+Check the Issues tab to find existing tasks or bugs.
+
+If you have a new idea, open a New Issue to discuss it before starting work. This ensures your efforts align with the project's goals.
+
+2. 🍴 Fork and Clone
+Fork this repository to your own GitHub account.
+
+Clone your fork to your local machine:
+
+Bash
+git clone https://github.com/YOUR_USERNAME/DIET_APP.git
+Add the original repository as an upstream remote to stay updated:
+
+Bash
+git remote add upstream https://github.com/harinarayana1457-cmyk/DIET_APP.git
+3. 🌿 Create a Branch
+Always create a new branch for your changes. Use a descriptive name:
+
+Bash
+git checkout -b feature/your-feature-name
+# OR
+git checkout -b fix/bug-name
+4. 🛠 Make Your Changes
+Code Style: Follow the existing "terminal-brutalist" dark-mode aesthetic.
+
+Linting: Ensure your code is clean and follows React.js best practices.
+
+Testing: Run the app locally to verify that your changes don't break existing functionality.
+
+5. 💾 Commit and Push
+Stage your changes:
+
+Bash
+git add .
+Commit with a clear, concise message:
+
+Bash
+git commit -m "feat: add macro-nutrient progress bar"
+Push to your fork:
+
+Bash
+git push origin feature/your-feature-name
+6. 🚀 Open a Pull Request (PR)
+Go to the original DIET_APP repository on GitHub.
+
+Click Compare & pull request.
+
+Provide a clear description of your changes and reference any related issues (e.g., Closes #12).
+
+Wait for a review. Be open to feedback and making adjustments if requested!
+
+⚖️ Community Standards
+Be respectful and constructive in all communications.
+
+Focus on keeping the UI clutter-free and performant.
+
+Happy Coding!
