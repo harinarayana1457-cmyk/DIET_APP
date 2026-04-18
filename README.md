@@ -1,20 +1,43 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# MealMaster
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+A lightweight, responsive dietary management web application designed to simplify personal nutrition tracking. This app focuses on a clutter-free experience, allowing users to log meals and visualize their health progress without the complexity of traditional fitness trackers.
 
 
-CHECK IT OUT HERE 
-https://697e1aedf75478204956edac--gilded-chaja-11a5c3.netlify.app
+## Tech Stack
+
+Frontend: React.js
+
+Styling: Tailwind CSS
+
+Deployment: Netlify
+
+
+
+
+## Features
+
+- Goal Setting: Define personalized fitness and nutrition objectives.
+
+- Meal Logging: Easily categorize and track meals (Breakfast, Lunch, Dinner, Snacks).
+
+- Macro Visualization: Intuitive data visualization for tracking daily protein, carbs, and fats.
+
+- Dark Mode Aesthetic: A sleek "terminal-brutalist" dark-themed interface for reduced eye strain.
+
+- Responsive Design: Optimized for seamless use across mobile and desktop devices.
+
+
+
+## Appendix
+
+If you have any feedback or suggestions on how to improve, please reach out via the contact section on the site or open an issue in this repository!
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-narayana-035ba1389/?skipRedirect=true)
+[![My Project](https://img.shields.io/badge/my_project-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://697e1aedf75478204956edac--gilded-chaja-11a5c3.netlify.app)
+
+
+
